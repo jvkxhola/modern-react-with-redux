@@ -1,0 +1,30 @@
+[submodule "blog"]
+	path = blog
+	url = ./blog/
+[submodule "components"]
+	path = components
+	url = ./components/
+[submodule "jsx"]
+	path = jsx
+	url = ./jsx/
+[submodule "pics"]
+	path = pics
+	url = ./pics/
+[submodule "seasons"]
+	path = seasons
+	url = ./seasons/
+[submodule "songs"]
+	path = songs
+	url = ./songs/
+[submodule "translate"]
+	path = translate
+	url = ./translate/
+[submodule "videos"]
+	path = videos
+	url = ./videos/
+[submodule "videos-hooks"]
+	path = videos-hooks
+	url = ./videos-hooks/
+[submodule "widgets"]
+	path = widgets
+	url = ./widgets/
